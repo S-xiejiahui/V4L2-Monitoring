@@ -1,1 +1,2 @@
-# V4L2-Monitoring
+# 视频监控
+>  该项目是基于v4l2框架，于ARM Linux平台开发的视频监控项目
